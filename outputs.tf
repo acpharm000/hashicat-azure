@@ -13,3 +13,7 @@ output "catapp_ip" {
 output "arts_name" {
   value = "art"
 }
+
+output "github_direct_edit" {
+  value = "yep"
+}
