@@ -6,3 +6,5 @@ Includes the "Meow World" website. 😻
 [![infrastructure-tests](https://github.com/hashicorp/hashicat-azure/actions/workflows/infrastructure-tests.yml/badge.svg)](https://github.com/hashicorp/hashicat-azure/actions/workflows/infrastructure-tests.yml)
 
 ArtPharmer
+
+Added line from GitHub
